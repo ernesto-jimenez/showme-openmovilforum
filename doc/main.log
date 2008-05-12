@@ -1,0 +1,382 @@
+This is XeTeXk, Version 3.141592-2.2-0.996 (Web2C 7.5.6) (format=xelatex 2007.6.28)  11 MAY 2008 22:42
+entering extended mode
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, arabic, basque, bulgarian, coptic, welsh, czech, slovak, german, ng
+erman, danish, esperanto, spanish, catalan, galician, estonian, farsi, finnish,
+ french, greek, monogreek, ancientgreek, croatian, hungarian, interlingua, ibyc
+us, indonesian, icelandic, italian, latin, mongolian, dutch, norsk, polish, por
+tuguese, pinyin, romanian, russian, slovenian, uppersorbian, serbian, swedish, 
+turkish, ukenglish, ukrainian, loaded.
+(/usr/local/texlive/2007/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2005/09/16 v1.4f Standard LaTeX document class
+(/usr/local/texlive/2007/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2007/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2005/11/23 v3.8h The Babel package
+
+(/usr/local/texlive/2007/texmf-dist/tex/generic/babel/spanish.ldf
+Language: spanish.ldf 2005/03/31 v4.2b Spanish support from the babel system
+
+(/usr/local/texlive/2007/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2005/11/23 v3.8h Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen103
+)
+\es@quottoks=\toks14
+\es@quotdepth=\count88
+Package babel Info: Making . an active character on input line 509.
+Package babel Info: Making " an active character on input line 540.
+Package babel Info: Making < an active character on input line 641.
+Package babel Info: Making > an active character on input line 642.
+))
+(/usr/local/texlive/2007/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2007/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2007/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2007/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2007/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: xetex.def on input line 90.
+
+(/usr/local/texlive/2007/texmf-dist/tex/xelatex/graphics/xetex.def
+File: xetex.def 2006/08/10 v0.92 LaTeX color/graphics driver for XeTeX (RRM, mo
+d. JK)
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(/usr/local/texlive/2007/texmf-dist/tex/xelatex/fontspec/fontspec.sty
+Package: fontspec 2006/12/24 v1.13 Advanced font selection for XeLaTeX
+
+(/usr/local/texlive/2007/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2006/08/21 v0.3 Provides ifxetex conditional
+)
+\c@zf@newff=\count89
+\c@zf@index=\count90
+\c@zf@script=\count91
+\c@zf@language=\count92
+
+(/usr/local/texlive/2007/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2005/08/06 v4.2 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count93
+\calc@Bcount=\count94
+\calc@Adimen=\dimen106
+\calc@Bdimen=\dimen107
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 75.
+LaTeX Info: Redefining \addtolength on input line 76.
+\calc@Ccount=\count95
+\calc@Cskip=\skip45
+)
+(/usr/local/texlive/2007/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2006/11/18 v2.5f package option processing (HA)
+
+(/usr/local/texlive/2007/texmf-dist/tex/latex/xkeyval/xkeyval.tex
+\XKV@toks=\toks16
+\XKV@depth=\count96
+File: xkeyval.tex 2006/11/18 v2.5f key=value parser (HA)
+))
+(/usr/local/texlive/2007/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2007/01/14 v1.3 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 13.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 14.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 15.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 16.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 17.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 18.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 19.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 20.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 22.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 23.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 25.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 27.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 28.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 29.
+)
+(/usr/local/texlive/2007/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2007/texmf-dist/tex/xelatex/euenc/eu1enc.def
+File: eu1enc.def 2006/08/13 v0.1a Experimental unicode font encoding
+)
+LaTeX Font Info:    Try loading font information for EU1+lmr on input line 100.
+
+
+(/usr/local/texlive/2007/texmf-dist/tex/xelatex/euenc/lm/eu1lmr.fd
+File: eu1lmr.fd 2007/01/14 v1.3 Font defs for Latin Modern
+))
+LaTeX Info: Redefining \itshape on input line 1050.
+LaTeX Info: Redefining \slshape on input line 1053.
+LaTeX Info: Redefining \scshape on input line 1056.
+LaTeX Info: Redefining \upshape on input line 1059.
+
+fontspec.cfg loaded.
+(/usr/local/texlive/2007/texmf-dist/tex/xelatex/fontspec/fontspec.cfg))
+(/usr/local/texlive/2007/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty
+Package: xltxtra 2006/06/13 v0.2 Improvements for the XeTeX/LaTeX format
+
+(/usr/local/texlive/2007/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+File: xunicode.sty 2005/02/26 v0.5 provides access to latin accents and many ot
+her characters in Unicode lower plane
+)
+\xxt@kern@Te=\skip46
+\xxt@kern@eX=\skip47
+\xxt@lower@e=\skip48
+\xxt@kern@La=\skip49
+\xxt@kern@aT=\skip50
+\xxt@kern@eL=\skip51
+LaTeX Info: Redefining \TeX on input line 36.
+LaTeX Info: Redefining \LaTeX on input line 42.
+
+(/usr/local/texlive/2007/texmf-dist/tex/latex/etex/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count97
+)
+(/usr/local/texlive/2007/texmf-dist/tex/latex/base/fixltx2e.sty
+Package: fixltx2e 2006/03/24 v1.1n fixes to LaTeX
+LaTeX Info: Redefining \em on input line 420.
+)
+LaTeX Info: Redefining \em on input line 101.
+LaTeX Info: Redefining \emph on input line 110.
+LaTeX Info: Redefining \- on input line 115.
+LaTeX Info: Redefining \textsubscript on input line 125.
+LaTeX Info: Redefining \textsuperscript on input line 154.
+)
+\c@zf@famc@Book Antiqua=\count98
+Package fontspec Info: Defining font family for "Book Antiqua" with options [Ma
+pping=tex-text,Mapping=tex-text] on input line 18.
+Package fontspec Info: Gill Sans scale = 1.04196 on input line 19.
+\c@zf@famc@Gill Sans=\count99
+Package fontspec Info: Defining font family for "Gill Sans" with options [Mappi
+ng=tex-text,Scale=MatchLowercase,Mapping=tex-text] on input line 19.
+Package fontspec Info: Gill Sans scale = 1.04196 on input line 19.
+Package fontspec Info: Gill Sans/B scale = 0.94006 on input line 19.
+Package fontspec Info: Gill Sans/I scale = 1.04196 on input line 19.
+Package fontspec Info: Gill Sans/BI scale = 0.94006 on input line 19.
+\c@zf@famc@Courier=\count100
+Package fontspec Info: Defining font family for "Courier" with options [Mapping
+=tex-text,Scale=0.9] on input line 20.
+Package fontspec Info: Could not resolve font Courier/I (it might not exist) on
+ input line 20.
+
+(/usr/local/texlive/2007/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count101
+\lst@gtempboxa=\box26
+\lst@token=\toks17
+\lst@length=\count102
+\lst@currlwidth=\dimen108
+\lst@column=\count103
+\lst@pos=\count104
+\lst@lostspace=\dimen109
+\lst@width=\dimen110
+\lst@newlines=\count105
+\lst@lineno=\count106
+\c@lstlisting=\count107
+\lst@maxwidth=\dimen111
+
+(/usr/local/texlive/2007/texmf-dist/tex/latex/listings/lstpatch.sty
+File: lstpatch.sty 2004/10/17 1.3b (Carsten Heinz)
+)
+(/usr/local/texlive/2007/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2004/09/07 1.3 (Carsten Heinz)
+\c@lstnumber=\count108
+\lst@skipnumbers=\count109
+\lst@framebox=\box27
+)
+(/usr/local/texlive/2007/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2004/09/05 1.3 listings configuration
+))
+Package: listings 2004/10/17 1.3b (Carsten Heinz)
+
+(/usr/local/texlive/2007/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+)
+(/usr/local/texlive/2007/texmf-dist/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2004/09/05 1.3 listings language file
+)
+(./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 51.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 51.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 51.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 51.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 51.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 51.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 51.
+LaTeX Font Info:    Redeclaring math accent \check on input line 51.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 51.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 51.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 51.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 51.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 51.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 51.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 51.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 51.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 51.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 51.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 51.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 51.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 51.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 51.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 51.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 51.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 51.
+LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
+(Font)              `operators' in the math version `normal' on input line 51.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/lmr/m/n --> EU1/BookAntiqua(0)/m/n on input line 51
+.
+LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
+(Font)              `operators' in the math version `bold' on input line 51.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/lmr/bx/n --> EU1/BookAntiqua(0)/m/n on input line 5
+1.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  EU1/BookAntiqua(0)/m/n --> EU1/BookAntiqua(0)/m/n on in
+put line 51.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  EU1/BookAntiqua(0)/m/n --> EU1/BookAntiqua(0)/m/n on in
+put line 51.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/lmr/m/it --> EU1/BookAntiqua(0)/m/it on input line 
+51.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/lmr/bx/n --> EU1/BookAntiqua(0)/bx/n on input line 
+51.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/lmss/m/n --> EU1/GillSans(0)/m/n on input line 51.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/lmtt/m/n --> EU1/Courier(0)/m/n on input line 51.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  EU1/BookAntiqua(0)/m/n --> EU1/BookAntiqua(0)/bx/n on i
+nput line 51.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  EU1/BookAntiqua(0)/m/n --> EU1/BookAntiqua(0)/bx/n on i
+nput line 51.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/lmr/bx/it --> EU1/BookAntiqua(0)/bx/it on input lin
+e 51.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/lmss/bx/n --> EU1/GillSans(0)/bx/n on input line 51
+.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/lmtt/m/n --> EU1/Courier(0)/bx/n on input line 51.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 52.
+ (/usr/local/texlive/2007/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2007/01/14 v1.3 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 52.
+
+
+(/usr/local/texlive/2007/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2007/01/14 v1.3 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 52.
+
+
+(/usr/local/texlive/2007/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2007/01/14 v1.3 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 52.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 52.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 52.
+
+Overfull \hbox (0.18933pt too wide) in paragraph at lines 61--62
+[]\EU1/BookAntiqua(0)/bx/n/10.95 Ocio\EU1/BookAntiqua(0)/m/n/10.95 : busca loca
+les comerciales y de ocio (restaurantes, farmacias, etc). 
+ []
+
+LaTeX Font Info:    Font shape `EU1/Courier(0)/m/n' will be
+(Font)              scaled to size 9.85492pt on input line 73.
+[1
+
+]
+Overfull \hbox (9.76512pt too wide) in paragraph at lines 83--84
+\EU1/BookAntiqua(0)/m/n/10.95 los Luceros, Alicante”) en coordenadas geográf
+icas (latitud y longitud). Show-
+ []
+
+
+Overfull \hbox (11.83456pt too wide) in paragraph at lines 87--89
+[]\EU1/Courier(0)/m/n/10.95 http://code.google.com/apis/maps/documentation/serv
+ices.html 
+ []
+
+File: showme_diagram.png Graphic file (type QTm)
+<use  "showme_diagram.png" > [2] [3] [4] [5] [6] (./main.aux) ) 
+Here is how much of TeX's memory you used:
+ 6710 strings out of 94863
+ 107116 string characters out of 1171490
+ 207887 words of memory out of 1500000
+ 9811 multiletter control sequences out of 10000+50000
+ 7246 words of font info for 51 fonts, out of 1200000 for 2000
+ 605 hyphenation exceptions out of 8191
+ 34i,6n,72p,481b,263s stack positions out of 5000i,500n,6000p,200000b,5000s
+
+Output written on main.pdf (6 pages).
