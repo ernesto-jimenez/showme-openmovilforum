@@ -1,17 +1,16 @@
+require 'open_movilforum/mms/sender/gmail'
+require 'open_movilforum/mms/sender/movistar'
+
 module OpenMovilforum
   module MMS
     module Sender
-      # base abstract class for MMS senders
       class Base
-        # constructor
-        def initialize(user, pass)
-          @login = user
-          @password = pass
-        end
-        
-        # send (virtual method)
-        def send(msg)
-          raise "This method should be implemented in a subclass"
+        def self.send(user, search, map_url, msg_text)
+          if (user =~ /^\d+$/)
+            OpenMovilforum::MMS::Sender::Movistar.send(user, search, map_url, msg_text)
+          else
+            OpenMovilforum::MMS::Sender::Gmail.send(user, search, map_url, msg_text)
+          end
         end
       end
     end

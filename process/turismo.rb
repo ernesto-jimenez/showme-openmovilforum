@@ -14,12 +14,9 @@ module Process
       Google::GMapsStatic.each_with_character(locations) do |char, value|
         msg_text << "#{char.upcase}: #{value['name']}\n"
       end
-
-      if (user =~ /^\d+$/)Å
-        OpenMovilforum::MMS::Sender::Movistar.send(user, search, map_url, msg_text)
-      else
-        OpenMovilforum::MMS::Sender::Gmail.send(user, search, map_url, msg_text)
-      end    end
+      
+      OpenMovilforum::MMS::Sender::Base.send(user, search, map_url, msg_text)
+    end
 
     private :initialize
   end

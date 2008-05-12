@@ -15,11 +15,7 @@ module Process
           msg_text << "#{char.upcase}: #{value['name']}\n"
         end
 
-        if (user =~ /^\d+$/)
-          OpenMovilforum::MMS::Sender::Movistar.send(user, search, map_url, msg_text)
-        else
-          OpenMovilforum::MMS::Sender::Gmail.send(user, search, map_url, msg_text)
-        end
+        OpenMovilforum::MMS::Sender::Base.send(user, search, map_url, msg_text)
       end
       
       private :initialize
